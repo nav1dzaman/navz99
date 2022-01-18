@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Navid Zaman</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D01DF7&lines=Hello+%2C++I+am+Navid+Zaman)](https://git.io/typing-svg)
+<h4> - 👀 I’m Studying Computer Science at East West University</h3>
+
+
 <h3 align="center">Learner | Tech Lover</h3>
+
+<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400px" align="right" alt="Computador iuriCode" data-canonical-src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" style="max-width: 100%;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navz99&label=Profile%20views&color=0e75b6&style=flat" alt="navz99" /> </p>
 
