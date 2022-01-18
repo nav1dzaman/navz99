@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navid Zaman</h1>
 <h3 align="center">Learner | Tech Lover</h3>
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navz99&label=Profile%20views&color=0e75b6&style=flat" alt="navz99" /> </p>
 
@@ -9,8 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- 
-
 <a href="https://twitter.com/navidzamanx99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navidzamanx99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/navid-zaman99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navid-zaman99" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/nav99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nav99" height="30" width="40" /></a>
