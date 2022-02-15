@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D01DF7&lines=Hello+%2C++I+am+Navid+Zaman)](https://git.io/typing-svg)
-<h4> - 👀 I’m Studying Computer Science at East West University</h3>
+
 
 
 <h3 align="center">Learner | Tech Lover</h3>
