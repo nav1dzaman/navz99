@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">Learner | Tech Lover</h3>
+<h3 align="center">Learner | Tech Lover | Explorer</h3>
 
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400px" align="right" alt="Computador iuriCode" data-canonical-src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" style="max-width: 100%;">
 
