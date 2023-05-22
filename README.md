@@ -30,7 +30,8 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navz99&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"  />
 
-![](https://raw.githubusercontent.com/navz99/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-
+  <div align="right">
+    ![](https://raw.githubusercontent.com/navz99/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+    </div>
 
 
