@@ -29,10 +29,8 @@
   </p>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navz99&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=navz99&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
-  
-![](https://raw.githubusercontent.com/nav1dzaman/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/nav1dzaman/cf-stats/main/output/light_card.svg)
-![](https://raw.githubusercontent.com/nav1dzaman/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/nav1dzaman/cf-stats/main/output/rating.svg)
+
+![](https://raw.githubusercontent.com/navz99/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/navz99/cf-stats/main/output/light_card.svg)
+
 
