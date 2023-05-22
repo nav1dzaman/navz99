@@ -28,7 +28,7 @@
 </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   </p>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navz99&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navz99&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"  />
 
 ![](https://raw.githubusercontent.com/navz99/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
